@@ -1,0 +1,2 @@
+# QT_LibModbus
+使用第三方库libmodbus实现ModbusTCP
